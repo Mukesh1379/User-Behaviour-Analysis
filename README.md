@@ -16,6 +16,7 @@ The build files will be located in the build/ directory.
 5. Deployment: Deploy the build files to a hosting platform. The application is
 deployed at:
 • Deployment Link: https://golden-basbousa-9542ca.netlify.app/
+
 Links
 • Deployment: https://golden-basbousa-9542ca.netlify.app/
 • GitHub Repository: https://github.com/Mukesh1379/UserBehaviour-Analysis.
